@@ -18,4 +18,4 @@
 ## 📊 GitHub Stats
 ![Max4960's GitHub stats](https://github-readme-stats.vercel.app/api?username=Max4960&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Max4960&layout=compact&theme=radical&hide=html,css,hlsl,shaderlab)
-![Profile Views](https://komarev.com/ghpvc/?username=Max4960&style=plastic&color=8A2BE2)
+![Profile Views](https://komarev.com/ghpvc/?username=Max4960&style=plastic&color=E91E63)
