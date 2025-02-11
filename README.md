@@ -7,13 +7,7 @@
 
 
 ## Programming Languages
-- Java
-- Python
-- Haskell
-- C
-- C#
-- Visual Basic
-
+Java, Haskell, Rust, Python, C, C#, Visual Basic
 
 ## 📊 GitHub Stats
 ![Max4960's GitHub stats](https://github-readme-stats.vercel.app/api?username=Max4960&show_icons=true&theme=radical)
